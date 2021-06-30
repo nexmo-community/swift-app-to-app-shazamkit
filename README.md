@@ -13,7 +13,7 @@ To enable and use ShazamKit you need an Apple developer account and Xcode 13. Se
 
 Clone the project to your computer, using the terminal:
 
-`git clone git@github.com:nexmo-community/swift-phone-to-app-callkit.git`
+`git clone git@github.com:nexmo-community/swift-app-to-app-shazamkit.git`
 
 Install the Client SDK with Cocoapods:
 
